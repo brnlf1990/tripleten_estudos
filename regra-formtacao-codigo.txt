@@ -1,0 +1,8 @@
+Como regra geral, recomendamos escrever seu código CSS na seguinte ordem:
+As regras mais gerais primeiro, tais como para o elemento <body>. (Lembre-se que em tais casos você deve somente usar os seletores de classe. Mesmo que haja apenas um elemento <body> em cada página, você deve assinalar uma classe para este elemento e aplicar os estilos para a classe.)
+Estilos para blocos suplementares (por exemplo, aqueles usados em uma mistura).
+Estilos para o primeiro bloco no código HTML.
+Quaisquer modificadores para esse bloco.
+O primeiro elemento desse bloco.
+Quaisquer modificadores para este elemento.
+Então você repete isso para o bloco seguinte no código HTML e continua desta forma até o final.

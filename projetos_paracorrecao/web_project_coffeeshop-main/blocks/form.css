@@ -1,0 +1,10 @@
+
+
+.reservation__item::placeholder {
+  color: #bcbcc4;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 52px;
+  padding-left: 20px;
+}
